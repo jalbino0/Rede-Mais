@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999853208663",
+    "project_id": "rede-mais-app",
+    "storage_bucket": "rede-mais-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999853208663:android:f66dc1f9d903b19db89f12",
+        "android_client_info": {
+          "package_name": "com.redemais.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOcmf_kNYC0aSG9UYlfXTT2UdEYdbdro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
